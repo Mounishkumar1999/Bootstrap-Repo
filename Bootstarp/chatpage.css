@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(113, 113, 128) ;
+}
+.container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 400px;
+    margin-left: 300px;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 10px;
+   
+}
+h2{
+    background-color: #323f4b;
+    text-align: center;
+    font-size: xx-large;
+    height: 50px;
+    padding-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.nantha{
+    background-color: #47a3f3;
+    width: 350px;
+    margin-left: 20px;
+    text-align: end;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;  
+    padding: 12px;
+}
+.mouni{
+    background-color: #52606d;
+    width: 350px;
+    margin-left: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px; 
+    padding: 10px; 
+}
+input{
+    height: 30px;
+    width: 323px;
+    border-radius: 20px;
+    border: none;
+}
+input:hover{
+    background-color: #140353;
+    color: white;
+}
